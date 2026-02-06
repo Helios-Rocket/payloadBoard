@@ -1,0 +1,25 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "e3a98ef3-985a-4612-889b-cdac9a75f83d")
+	(paper "A4")
+	(lib_symbols)
+	(text "NEED:\n- 2S regulation to 5V & 3.3V\n- USB-C\n- Servo output port\n- LDR x2 on back of board\n- Flash chip for data logging\n- Arduino Framework support\n\nWANT:\n- BLE control / admin?"
+		(exclude_from_sim no)
+		(at 95.25 31.75 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "178650c3-a51a-4e17-b64a-8d19544f8dcc")
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
